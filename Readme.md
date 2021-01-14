@@ -33,6 +33,7 @@ Gra jest ulepszoną wersją gry o rozjeżdżaniu jeleni stworzonej jako zadanie 
 Gotowe:
 * Wygląd menu
 * Sterowanie pojazdem gracza
+* Spowolnienie czasu
 * Losowanie pozycji i ruch przeciwników
 * Losowanie pozycji i ruch jeleni
 
