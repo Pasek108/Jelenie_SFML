@@ -1,0 +1,2 @@
+D:\Języki\C++\SFML - jelenie\Jelenie\x64\Debug\Jelenie.exe
+D:\Języki\C++\SFML - jelenie\Jelenie\x64\Debug\Jelenie.pdb
