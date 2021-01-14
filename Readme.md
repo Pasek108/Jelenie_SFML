@@ -10,7 +10,7 @@
 
 
 ## Informacje
-Gra jest ulepszoną wersją gry o rozjeżdżaniu jeleni stworzonej jako zadanie domowe w canvasie, początkowo miała to być okrojona wersja gry Road Fighter
+Gra jest ulepszoną wersją gry o rozjeżdżaniu jeleni stworzonej jako zadanie domowe w canvasie, początkowo miała to być okrojona wersja gry Road Fighter. Główną zmnianą względem wersji przeglądarkowej jest ulepszenie algorytmu losowania pozycji wrogów o wzięcie pod uwage ich prędkości i odległości co pozwoliło na umieszczenie więkeszej liczby przeciwników oraz możliwość wyboru poziomu trudności.
 
 ## Screeny
 ### Menu główne
