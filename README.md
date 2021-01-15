@@ -45,6 +45,7 @@ Do zrobienia:
 * Liczenie punktów
 * Ekran przegranej i reset
 * Tablica wyników
+* Ruch na podstawie czasu a nie fps
 
 
 ## Status
